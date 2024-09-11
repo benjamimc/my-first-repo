@@ -3,5 +3,12 @@ body {
 }
 
 h1 {
-    text-decoration-color: antiquewhite;
+    background-color: antiquewhite;
+    color: black;
+}
+
+main {
+    background-color: antiquewhite;
+    width: 70%;
+    margin: 0 auto;
 }
